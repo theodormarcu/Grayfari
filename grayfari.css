@@ -1,0 +1,16 @@
+/*
+  Grayfari.css
+  Grayfari
+
+  Created by Theodor Marcu on 5/22/18.
+  Copyright © 2018 Theodor Marcu. All rights reserved.
+*/
+
+* {
+	/* margin: 0 !important;
+	padding: 0 !important; */
+    filter: grayscale(100%) !important;
+    -moz-filter: grayscale(100%) !important;
+    -webkit-filter: grayscale(100%) !important;
+    filter: gray !important; /* IE6-9 */
+}
